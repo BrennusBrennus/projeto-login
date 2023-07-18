@@ -18,6 +18,7 @@ Televisores: acima de 1366px */
 
     section#login {
         width: 90vw;
+        height: 400px;
 
     }
     
@@ -37,6 +38,7 @@ Televisores: acima de 1366px */
 
     div#formu>p {
         font-size: 1.3em;
+        padding-top: 13px;
     }
 
     div#formu>h1 {
@@ -53,6 +55,7 @@ Televisores: acima de 1366px */
 
     section#login {
         width: 1014px;
+        height: 450px;
 
     }
 
@@ -72,9 +75,11 @@ Televisores: acima de 1366px */
     
     div#formu>p {
         font-size: 1.3em;
+        padding-top: 13px;
     }
 
     div#formu>h1 {
         font-size: 2em;
     }
+
 }
